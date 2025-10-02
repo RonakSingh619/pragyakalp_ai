@@ -1,0 +1,80 @@
+---------------- Features of Pragyakalp AI ----------------
+
+••••••••••••••• Sayantan Features ••••••••••••••• 
+• 
+••••••••••••••• My Features ••••••••••••••
+• Chat Bot (Broken)
+• System 
+• website summaries
+• Automate emails
+• PC switch off / ON, lock, unlock (Special keyword for doing so)
+• News update
+• Weather Update
+• 
+• check system health
+• send social media messages
+• surf web
+• set alarms
+
+
+
+
+
+
+
+---------------- (ChatGPT) Features of Pragyakalp AI ----------------
+
+
+5. AI Scheduler + Time Manager
+
+    Automatically block calendar time, reschedule meetings, analyze time usage
+
+    Deep integration with Google/Outlook calendars and reminders
+
+6. Computer Control & Automation
+
+    Automate workflows (open apps, send emails, code, edit videos)
+
+    OCR + Document summarization from images/screens
+
+11. Autonomous Decision-Making System
+
+    JARVIS takes actions on your behalf with limited supervision (email replies, meeting bookings, online purchases)
+
+    Prioritizes tasks, balances workload, and handles conflicting schedules
+
+12. Real-Time Web Agent
+
+    Searches the internet live for answers
+
+    Can summarize YouTube videos, read research papers, check flights, etc.
+
+    Includes tools like:
+
+        Web scraping
+
+        Browser automation (via Playwright/Selenium)
+
+        RAG with up-to-date news sources
+
+Integrated with meditation apps or generates its own routines
+
+19. Voice Cloning for Multi-Voice Output
+
+    Different personalities or tones (serious, fun, corporate)
+
+    Can mimic famous voices or your own (via ElevenLabs)
+
+22. Encrypted Memory + Privacy Mode
+
+    Everything it stores is encrypted locally
+
+    Can auto-enable privacy mode when strangers are detected
+
+23. Digital Wallet Integration
+
+    Cryptocurrency and payment gateway interface
+
+    Can scan QR codes, send money, convert currencies on command
+
+    Voiceovers using cloned voices, stock footage, automatic edits (like a virtual YouTuber assistant)
